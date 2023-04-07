@@ -1,4 +1,4 @@
-# README - Projeto Bikcraft
+# Projeto Bikcraft
 ![Bikcraft Logo](img/bicicleta/nimbus1.jpg)
 
 ## Descrição
