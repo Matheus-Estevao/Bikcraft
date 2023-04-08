@@ -10,9 +10,9 @@ Para instalar e configurar o projeto, siga as instruções abaixo:
 2. Entre na pasta do projeto: `cd Bikcraft`
 
 ## Utilização
-  Para utilizar o projeto Bikcraft, basta acessar o site e escolher o modelo de bicicleta que mais se adequa às suas necessidades e preferências. Cada Bikcraft é única e feita sob medida para garantir maior conforto e ergonomia na sua pedalada. Além disso, é possível personalizar completamente as cores da bicicleta. Todas as Bikcrafts são equipadas com um motor elétrico que possui duração de até 120h e rastreadores e sistemas anti-furto para garantir a segurança da sua bicicleta.
+  Para você utilizar o projeto Bikcraft, precisa acessar o site e escolher a bicicleta que mais se adequa às suas necessidades. Cada Bikcraft é única e feita sob medida para garantir o maior conforto na sua pedalada. Além disso, é possível personalizar as cores da bicicleta. Todas as Bikcrafts são equipadas com um motor elétrico que possui duração de até 120h. Também possui rastreadores e sistemas anti-furto para garantir a segurança da sua bicicleta.
 
-  Para garantir ainda mais tranquilidade aos seus clientes, a Bikcraft oferece opções de seguro para a bicicleta, com planos Prata e Ouro, que incluem trocas de peças e assistência técnica. É possível entrar em contato com a empresa por telefone, e-mail ou redes sociais para mais informações. Pedale com conforto, segurança e estilo com a Bikcraft!
+  Alem do mais, para garantir ainda mais tranquilidade dos seus clientes, a Bikcraft oferece opções de seguro, com os planos Prata e Ouro, que incluem trocas de peças e assistência técnica. É possível entrar em contato com a empresa por telefone, e-mail ou redes sociais para mais informações. Pedale com conforto, segurança e estilo com a Bikcraft!
 
 ## Tecnologias Utilizadas
 As principais tecnologias utilizadas neste projeto foram:
